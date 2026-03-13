@@ -31,7 +31,7 @@ PyCursor/
 Clone & Install:
 
 Bash
-git clone https://github.com/your-username/pycursor.git
+git clone https://github.com/Vivekpatil200320/pycursor.git
 pip install -r requirements.txt
 Local Setup:
 
